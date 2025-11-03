@@ -1,2 +1,2 @@
 # BJUT
-codes during stduy at BJUT
+There are codes during stduy at BJUT
